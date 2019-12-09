@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stream IMDB
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the Streaming world!
 // @author       4L00
 // @match        https://www.imdb.com/title/*
