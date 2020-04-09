@@ -12,7 +12,7 @@ Add various stream sources and Youtube buttons on IMDB movies TV series title pa
 # Stream TMDB
 Add a single stream source on the movie poster
 
-
+<img src="https://thumbs.gfycat.com/SadTalkativeAsiaticlesserfreshwaterclam-mobile.mp4">
 
 <a href="https://github.com/4L00/TemperMonkey-Scripts/raw/master/Stream-TMDB.user.js">Click to install Stream-TMDB script </a>
 <small>(A userscript engine, like [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tampermonkey](https://www.tampermonkey.net/) is required.)</small>
