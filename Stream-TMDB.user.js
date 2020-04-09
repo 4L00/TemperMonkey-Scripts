@@ -26,7 +26,7 @@ var $ = window.jQuery;
     btn2.style.border = 'none'
 
 
-    var y = document.getElementsByClassName('no_click')[9];
+    var y = document.getElementsByClassName('no_click')[6];
     insertBefore(btn2, y);
 
 
