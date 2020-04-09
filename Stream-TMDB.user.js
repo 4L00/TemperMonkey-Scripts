@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the streaming world!
-// @author       You
+// @author       4L00
 // @match        https://www.themoviedb.org/movie/*
 // @grant        none
 // ==/UserScript==
@@ -24,6 +24,7 @@ var $ = window.jQuery;
     btn2.style.background = 'transparent'
     btn2.style.color = '#3DB9D8'
     btn2.style.border = 'none'
+    btn2.style.outline = 'none'
 
     var y = document.getElementsByClassName('zoom')[0].firstElementChild;
     console.log(y)
