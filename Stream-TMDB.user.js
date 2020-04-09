@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stream TMDB
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the streaming world!
 // @author       You
 // @match        https://www.themoviedb.org/movie/*
@@ -25,10 +25,9 @@ var $ = window.jQuery;
     btn2.style.color = '#3DB9D8'
     btn2.style.border = 'none'
 
-
-    var y = document.getElementsByClassName('no_click')[6];
+    var y = document.getElementsByClassName('zoom')[0].firstElementChild;
+    console.log(y)
     insertBefore(btn2, y);
-
 
            document.getElementById("gdriveplayer").addEventListener("click", function(){
   window.open("https://database.gdriveplayer.us/player.php?tmdb=" + tmdbid);
