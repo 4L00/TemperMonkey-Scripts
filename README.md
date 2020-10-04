@@ -1,5 +1,5 @@
 # 4L00
-Various utility based userscripts.
+Various utility based userscripts(javascript).
 
 # Stream IMDB
 Add various stream sources and Youtube buttons on IMDB movies TV series title pages.
