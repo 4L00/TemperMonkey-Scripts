@@ -15,4 +15,4 @@ Add a single stream source on the movie poster
 ![gif Demonstration](https://media.giphy.com/media/Tj4Jrfrb56nQ7YjzBe/source.gif)
 
 <a href="https://github.com/4L00/TemperMonkey-Scripts/raw/master/Stream-TMDB.user.js">Click to install Stream-TMDB script </a>
-<small>(A userscript engine, like [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tampermonkey](https://www.tampermonkey.net/) is required.)</small>
+<small>(A userscript/JavaScript engine, like [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tampermonkey](https://www.tampermonkey.net/) is required.)</small>
